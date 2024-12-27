@@ -26,12 +26,12 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "Marco Szeidenleder"
-description = "Pandata /n Music /n Art"
+title = " "
+# description = "Pandata /n Music /n Art"
 # unicode/emoji logo:
 # logo = "🍚"
 # or use an image:
-logo_image = "images/rice.svg"
+# logo_image = "images/rice.svg"
 
 # Sidebar: social links
 # Available icon sets:
@@ -64,13 +64,13 @@ url = "mailto:hi@szeidenleder.com"
 # title = "ORCID"
 # url = "https://orcid.org/0000-0001-2345-6789"
 
-[menu]
+# [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+ # [[menu.main]]
+   # identifier = "about"
+   # name = "About"
+   # url = "/about/"
+   # weight = 10
 
 
 

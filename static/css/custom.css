@@ -1,0 +1,9 @@
+
+.custom-about-image {
+	image-rendering: pixelated
+}
+
+.aside__social-links {
+	text-align: center;
+	padding: 1rem;
+}

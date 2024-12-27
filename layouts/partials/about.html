@@ -2,6 +2,13 @@
 <div class="aside__about">
     {{ with .logo }}<span class="about__logo" role="img">{{ . }}</span>&nbsp;{{ end }}
     {{ with .logo_image }}<img class="about__logo" src="{{ . | absURL }}" alt="Logo">{{ end }}
+
+
+    <div class="additional-image">
+        <img src="/images/marco.png" alt="Marco's Image" class="custom-about-image" style="display: block; margin: 0 auto;">
+    </div>
+
+
 <h1 class="about__title">{{ .title }}</h1>
 {{ with .description }}<p class="about__description">{{ . | markdownify }}</p>{{ end }}
 </div>
@@ -10,7 +17,7 @@
 <ul class="aside__social-links">
     {{ range $item := .Site.Params.socialLinks }}
     <li>
-        <a href="{{ $item.url }}" rel="me" aria-label="{{ $item.title }}" title="{{ $item.title }}"><i class="{{ $item.icon }}" aria-hidden="true"></i></a>&nbsp;
+        <a href="{{ $item.url }}"  target="_blank" rel="me" aria-label="{{ $item.title }}" title="{{ $item.title }}"><i class="{{ $item.icon }}" aria-hidden="true"></i></a>&nbsp;
     </li>
     {{ end }}
 </ul>
