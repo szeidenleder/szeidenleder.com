@@ -1,6 +1,6 @@
 +++
-title = "Learning should be hard, play should be easy"
-date = "2024-01-16"
+title = "Learning Should Be Hard, Play Should Be Easy"
+date = "2025-01-16"
 author = "Marco Szeidenleder"
 description = "Learning requires focused effort and clear purpose while creativity thrives through accessible play, yet what we do is often the exact opposite."
 tags = ["productivity", "creativity", "philosophy"]
@@ -15,7 +15,7 @@ tags = ["productivity", "creativity", "philosophy"]
 
 
 
-## The Paradox of Modern Learning
+## What Feels Like Learning
 Learning should be hard, while creation and play should flow naturally. Yet paradoxically, we often reverse these principles. Many of us mistake passive consumption for active learning, spending countless hours watching YouTube videos or scrolling through social media content that we convince ourselves might be useful someday. But true learning requires purpose and direction – a clear target to aim for. Without this intentionality, information simply washes over us and fades away.
 
 This is precisely why genuine learning demands effort and dedicated time. We each have a finite reservoir of energy each day, and directing it toward focused learning means it's unavailable for other pursuits. Often, we find ourselves running out of time before we've truly maximized our energy's potential.
