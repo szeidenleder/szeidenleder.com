@@ -78,8 +78,10 @@ url = "mailto:hi@szeidenleder.com"
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
 
 [markup]
+
 
   # Table of contents
   # Add toc = true to content front matter to enable
@@ -87,6 +89,7 @@ unsafe = true
     startLevel = 2
     endLevel   = 3
     ordered    = true
+
 
 [privacy]
 
