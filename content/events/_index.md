@@ -8,7 +8,7 @@ draft = false
 
 
 ## Past
-- Sep, 11th 2025 - ["KI-Festival: "](https://www.retailai.io/ki-festival-2025/) "Von der KI-Strategie zum Prototyp: AI Innovation Canvas in der Praxis"
+- Sep, 11th 2025 - ["KI-Festival:"](https://www.retailai.io/ki-festival-2025/) "Von der KI-Strategie zum Prototyp: AI Innovation Canvas in der Praxis", Spielfeld Digital Hub, Berlin
 - Jun, 24th 2025 - Digitalkonferenz Personalisierung & KI-Trends: Panel ["Omnichannel-Marketing mit personalisiertem Content"](https://www.marketing-boerse.de/programm/details/2515-tba/200291)
 - May, 22nd 2025 - ["4. KI-Stammtisch"](https://www.eventbrite.de/e/networking-event-4-ki-stammtisch-tickets-1295585905319), Aktion Mensch e.V, Bonn
 - Apr, 9th 2025 - "AI Leadership Workshop: KI erfolgreich einsetzen", Impact Hub, Zürich
