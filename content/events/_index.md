@@ -4,7 +4,9 @@ date = 2025-04-23T12:14:52+02:00
 draft = false
 +++
 
-
+## Upcoming
+- Nov, 26th 2025 - "Ströer Tech Talk: Wie Low-Code-Workflows Arbeitsabläufe revolutionieren und echten Impact durch intelligente Prozessautomatisierung schaffen"
+- Nov, 27th 2025 - "47. TDWI Roundtable Berlin: "AI im Handel"
 
 
 ## Past
@@ -13,10 +15,9 @@ draft = false
 - May, 22nd 2025 - ["4. KI-Stammtisch"](https://www.eventbrite.de/e/networking-event-4-ki-stammtisch-tickets-1295585905319), Aktion Mensch e.V, Bonn
 - Apr, 9th 2025 - "AI Leadership Workshop: KI erfolgreich einsetzen", Impact Hub, Zürich
 - Apr, 8th 2025 – "AI Leadership Workshop: KI erfolgreich einsetzen", Club Traube, Stuttgart
-- Mar, 13th 2025 – 45. TDWI Roundtable Berlin: "Innovative Datenstrategien mit RAG"
+- Mar, 13th 2025 – "46. TDWI Roundtable Berlin: "Innovative Datenstrategien mit RAG"
 - Jan, 22nd 2025 – "Quick Impulse KI im Quartiersmanagement",  Deutsche Bank Q-Club, Berlin
 - Nov, 29th 2024 - "Datenpotenzial entfesseln mit Rapid AI Prototyping", Berlin Creative Tech Summit 2024
-- Nov, 27th 2024 - "Bundesbank Learning Journey Lunch", Berlin
 
 
 
